@@ -24,5 +24,10 @@ namespace WebApplication1
         {
             Label1.Text = "";
         }
+
+        protected void Button3_Click(object sender, EventArgs e)
+        {
+            TextBox1.Text = "";
+        }
     }
 }

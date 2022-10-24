@@ -22,6 +22,9 @@
             <br />
             <br />
             <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="clear" />
+            <br />
+            <br />
+            <asp:Button ID="Button3" runat="server" OnClick="Button3_Click" Text="Button" Width="48px" />
         </div>
     </form>
 </body>
