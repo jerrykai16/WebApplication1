@@ -13,5 +13,11 @@ namespace WebApplication1
         {
 
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            //basic funcioin ok
+            Label1.Text = TextBox1.Text;
+        }
     }
 }
